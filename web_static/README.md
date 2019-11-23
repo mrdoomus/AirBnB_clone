@@ -1,0 +1,1 @@
+Folder for .hmtl and .css files, also some images as resources
